@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "323442033876",
+    "firebase_url": "https://dietdoc-2706c.firebaseio.com",
+    "project_id": "dietdoc-2706c",
+    "storage_bucket": "dietdoc-2706c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323442033876:android:53c9ecb239ef69e9",
+        "android_client_info": {
+          "package_name": "com.dietdoc.henry.dietdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323442033876-86fc9r2qmpp7ojfm43q9ibtk056gm4nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7dAYdWLDcTceKvtx6mpwRPqQrr_d3Gsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
